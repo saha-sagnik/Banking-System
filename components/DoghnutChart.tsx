@@ -16,7 +16,7 @@ const data = {
             backgroundColor : ['#0747b6','#2265d8','#2f91fa']
         }
     ],
-    labels:['Bank1','Bank2','Banl3']
+    labels:['Bank1','Bank2','Bank3']
 }
 
 
